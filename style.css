@@ -1,4 +1,8 @@
 body{
     background-color: darkred;
     font-family: "Pirata One", system-ui;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
 }

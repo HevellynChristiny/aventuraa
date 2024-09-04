@@ -1,8 +1,14 @@
-body{
-    background-color: darkred;
+body {
+    background-color: rgb(131, 5, 5);
     font-family: "Pirata One", system-ui;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 700px;
+    margin: 0px;
+}
+
+button {
+    background-color: rgb(255, 231, 123) 
+    font-family: "Pirata One", system-ui;
 }

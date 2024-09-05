@@ -16,3 +16,7 @@ button {
 .passo{
     display: nome;
 }
+
+.passo-ativo{
+    display: block;
+}
